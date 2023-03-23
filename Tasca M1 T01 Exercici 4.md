@@ -1,11 +1,8 @@
 # Exercici 4
-per a cada persona, 
-  el seu nom i 
-  el nombre màxim de rols diferents que ha tingut 
-    en una mateixa pel·lícula. 
 
-Posteriorment, 
-  mostra únicament aquelles 
-    persones que hagin assumit 
-      més d'un rol en una 
-        mateixa pel·lícula.
+### Primera part
+![image](https://user-images.githubusercontent.com/126161357/227381912-2bdd2528-33c1-401b-bd20-a56114b978c9.png)
+
+
+### Segona part
+![image](https://user-images.githubusercontent.com/126161357/227382409-52a0d5f0-ddd4-45df-aa00-691c86fe0aab.png)
